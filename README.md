@@ -1,6 +1,6 @@
 # HR Analytics Report
 
-## Interactive Power BI dashboard can be downloaded [here](https://www.microsoft.com).
+## Interactive Power BI dashboard can be downloaded [here](https://github.com/ddolgova/HR_Analytics/blob/main/HR_Analytics_Tool.pbix).
 
 ## Table of Contents
 
